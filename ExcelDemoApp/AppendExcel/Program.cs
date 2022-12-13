@@ -27,7 +27,6 @@ namespace AppendExcel
             int skipRowIndex = 3;
 
             Row row = new Row();
-            row.Append(new Cell());
             //AppendStringRefCell(row, "today", reference[0].ToString() + skipRowIndex);
             AppendStringRefCell(row, "today", "B6");
             sheetData.Append(row);
