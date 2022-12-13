@@ -10,3 +10,9 @@ Install-Package Open-XML-SDK
 ```
 
 <img src="/pictures/export.png" title="export"  width="600">
+
+## Shared Strings
+
+Shared strings optimize space requirements when the spreadsheet contains multiple instances of the same string.
+
+

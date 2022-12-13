@@ -17,3 +17,5 @@ C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\ob
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\obj\Debug\net5.0\AppendExcel.pdb
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\obj\Debug\net5.0\AppendExcel.genruntimeconfig.cache
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\obj\Debug\net5.0\ref\AppendExcel.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\bin\Debug\net5.0\ExcelUtils.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\AppendExcel\bin\Debug\net5.0\ExcelUtils.pdb

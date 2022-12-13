@@ -22,6 +22,19 @@
         "runtime": {
           "lib/netstandard2.0/System.IO.Packaging.dll": {}
         }
+      },
+      "ExcelUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "DocumentFormat.OpenXml": "2.18.0"
+        },
+        "compile": {
+          "bin/placeholder/ExcelUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExcelUtils.dll": {}
+        }
       }
     }
   },
@@ -74,11 +87,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ExcelUtils/1.0.0": {
+      "type": "project",
+      "path": "../ExcelUtils/ExcelUtils.csproj",
+      "msbuildProject": "../ExcelUtils/ExcelUtils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DocumentFormat.OpenXml >= 2.18.0"
+      "DocumentFormat.OpenXml >= 2.18.0",
+      "ExcelUtils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -107,7 +126,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\source\\CsharpLibraries\\CreatingExcelFilesInCsharp\\ExcelDemoApp\\ExcelUtils\\ExcelUtils.csproj": {
+              "projectPath": "C:\\source\\CsharpLibraries\\CreatingExcelFilesInCsharp\\ExcelDemoApp\\ExcelUtils\\ExcelUtils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

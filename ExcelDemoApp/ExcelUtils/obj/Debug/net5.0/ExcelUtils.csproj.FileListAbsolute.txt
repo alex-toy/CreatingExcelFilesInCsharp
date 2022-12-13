@@ -1,0 +1,12 @@
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\bin\Debug\net5.0\ExcelUtils.deps.json
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\bin\Debug\net5.0\ExcelUtils.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\bin\Debug\net5.0\ExcelUtils.pdb
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.csproj.AssemblyReference.cache
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.AssemblyInfoInputs.cache
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.AssemblyInfo.cs
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.csproj.CoreCompileInputs.cache
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\refint\ExcelUtils.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ExcelUtils.pdb
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelUtils\obj\Debug\net5.0\ref\ExcelUtils.dll

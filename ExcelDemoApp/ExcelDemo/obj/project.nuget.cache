@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3X2ESsGVXvM8+V8hyb0Afb51MXqmhHFyOkDutSx1LFP7Cu5xw7WG209ulzbX4PiRBIVH8tENKRFyDUY7+oNsUQ==",
+  "dgSpecHash": "GH9eZK9mI6TREdb0EUZPYHjx2mQ7LBMiMsWLAIYAlGSqvFgVXqtbqT+VGSr+MK1NA8oDzM1/Z+1wBz2P+ACACQ==",
   "success": true,
   "projectFilePath": "C:\\source\\CsharpLibraries\\CreatingExcelFilesInCsharp\\ExcelDemoApp\\ExcelDemo\\ExcelDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
@@ -42,7 +43,7 @@
     "C:\\Users\\alexe\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\alexe\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\alexe\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",

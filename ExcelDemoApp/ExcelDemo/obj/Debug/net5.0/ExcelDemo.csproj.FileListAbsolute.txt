@@ -17,3 +17,5 @@ C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\obj\
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\obj\Debug\net5.0\ExcelDemo.pdb
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\obj\Debug\net5.0\ExcelDemo.genruntimeconfig.cache
 C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\obj\Debug\net5.0\ref\ExcelDemo.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\bin\Debug\net5.0\ExcelUtils.dll
+C:\source\CsharpLibraries\CreatingExcelFilesInCsharp\ExcelDemoApp\ExcelDemo\bin\Debug\net5.0\ExcelUtils.pdb
