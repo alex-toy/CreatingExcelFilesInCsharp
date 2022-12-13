@@ -9,4 +9,4 @@ Spreadsheets are an easy way to visualize and manipulate data that almost any us
 Install-Package Open-XML-SDK
 ```
 
-<img src="/pictures/export.png" title="export"  width="800">
+<img src="/pictures/export.png" title="export"  width="600">

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVQXWXKfV2osz8LUp6VPSK1+2EFYU422NG5emwoPlRSAKWXNOzAWPGbmbfjVINUrXcY6PNIsMnF6UZUXsurInw==",
+  "success": true,
+  "projectFilePath": "C:\\source\\CsharpLibraries\\CreatingExcelFilesInCsharp\\ExcelDemoApp\\AppendExcel\\AppendExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexe\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\alexe\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
